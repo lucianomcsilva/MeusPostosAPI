@@ -1,7 +1,7 @@
 # MeusPostosAPI
 Conjunto de bibliotecas para facilitar a conexão com a API do projeto Meus Postos - preços atualizados de venda de combustíveis no Brasil
-##Métodos
-###Saiba como utilizar nossas API
+## Métodos
+### Saiba como utilizar nossas API
 
 Abaixo você vai poder conhecer todas as interfaces disponíveis para interagir com os dados do projeto Meus Postos. Não se esqueça que para utilizar a API você deve primeiro autenticar seus pedidos (saiba mais sobre autenticação)
 
